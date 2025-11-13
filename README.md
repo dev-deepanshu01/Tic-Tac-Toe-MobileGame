@@ -1,15 +1,15 @@
 
-# 📱 BMI Calculator App
+# 📱 Tic Tac Toe mobile game
 
 An Android app to calculate Body Mass Index (BMI) using height (in feet/inches) and weight (in kilograms).
 
 ---
 
 ## 🧮 Features
-- Input height in feet and inches
-- Input weight in kilograms
-- Calculate BMI with one click
-- Shows health status: Underweight, Normal, Overweight, or Obese
+- Two-player gameplay (X vs O)
+- Custom Toast messages for winner/draw
+- New Game button to reset the board
+- Simple & clean UI with custom background
 
 ---
 ## 📦 Download APK
@@ -29,6 +29,7 @@ An Android app to calculate Body Mass Index (BMI) using height (in feet/inches) 
 - Java ☕
 - Android Studio 🛠️
 - XML Layouts 📐
+- Figma Ui/Ux 📱
 
 ---
 
