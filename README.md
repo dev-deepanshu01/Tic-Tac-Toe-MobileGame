@@ -1,7 +1,7 @@
 
 # 📱 Tic Tac Toe mobile game
 
-An Android app to calculate Body Mass Index (BMI) using height (in feet/inches) and weight (in kilograms).
+An Android two player game, play with friends offline.
 
 ---
 
