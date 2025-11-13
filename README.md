@@ -20,7 +20,7 @@ An Android two player game, play with friends offline.
 
 ## 📸 App Screenshot
 
-![BMI App Screenshot](./screenshot.jpg)
+![BMI App Screenshot](./tic-tac-tae-screenshot.jpg)
 
 ---
 
