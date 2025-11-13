@@ -14,13 +14,13 @@ An Android two player game, play with friends offline.
 ---
 ## 📦 Download APK
 
-📲 [Click here to download BMI Calculator](https://github.com/dev-deepanshu01/Tic-Tac-Toe-MobileGame/releases/tag/version-v1.0)
+📲 [Click here to download Tic Tac Toe ](https://github.com/dev-deepanshu01/Tic-Tac-Toe-MobileGame/releases/tag/version-v1.0)
 
 ---
 
 ## 📸 App Screenshot
 
-![BMI App Screenshot](./tic-tac-tae-screenshot.jpg)
+![ App Screenshot](./tic-tac-tae-screenshot.jpg)
 
 ---
 
